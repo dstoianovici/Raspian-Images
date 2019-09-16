@@ -1,2 +1,2 @@
 # Raspian-Images
-Raspbian stretch image with ROS Kinetic and OpenCV created from a RosBots built OD
+Raspbian Buster image with ROS Kinetic, OpenCV, Dynamixel Workbench, and Respeaker ROS package. 
